@@ -1,0 +1,1 @@
+web: gunicorn neeraj_portfolio.wsgi
